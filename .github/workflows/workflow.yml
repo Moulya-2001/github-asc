@@ -17,4 +17,4 @@ jobs:
         with:
           azure-devops-project-url: 'https://dev.azure.com/Moulya0840/MOULYA-ASC'
           azure-pipeline-name: 'moulya-ascendion (2)'
-          azure-devops-token: ${{ secrets.AZURE_DEVOPS }}
+          azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
